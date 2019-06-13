@@ -1,0 +1,60 @@
+2019-06-12 14:34:27 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:594) ]
+DEBUG:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5594a1b5
+2019-06-12 14:34:27 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:395) ]
+DEBUG:Loaded 3 bean definitions from class path resource [applicationContext.xml]
+2019-06-12 14:34:27 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-06-12 14:34:28 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'service'
+2019-06-12 14:34:28 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'dao'
+2019-06-12 14:34:28 下午 [Thread: main][ Class:org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory >> Method: org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory.getAdvice(ReflectiveAspectJAdvisorFactory.java:243) ]
+DEBUG:Found AspectJ method: public void com.test.USer.UserService.add()
+2019-06-12 14:35:09 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:594) ]
+DEBUG:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5594a1b5
+2019-06-12 14:35:10 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:395) ]
+DEBUG:Loaded 3 bean definitions from class path resource [applicationContext.xml]
+2019-06-12 14:35:10 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-06-12 14:35:10 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'service'
+2019-06-12 14:35:10 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'dao'
+2019-06-12 14:35:10 下午 [Thread: main][ Class:org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory >> Method: org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory.getAdvice(ReflectiveAspectJAdvisorFactory.java:243) ]
+DEBUG:Found AspectJ method: public void com.test.USer.UserService.add()
+2019-06-12 14:39:59 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:594) ]
+DEBUG:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5594a1b5
+2019-06-12 14:40:00 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:395) ]
+DEBUG:Loaded 3 bean definitions from class path resource [applicationContext.xml]
+2019-06-12 14:40:00 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-06-12 14:40:00 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'service'
+2019-06-12 14:40:00 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'dao'
+2019-06-12 14:40:00 下午 [Thread: main][ Class:org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory >> Method: org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory.getAdvice(ReflectiveAspectJAdvisorFactory.java:243) ]
+DEBUG:Found AspectJ method: public void com.test.USer.UserService.add()
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:594) ]
+DEBUG:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5594a1b5
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:395) ]
+DEBUG:Loaded 3 bean definitions from class path resource [applicationContext.xml]
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'service'
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'dao'
+2019-06-12 14:41:55 下午 [Thread: main][ Class:org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory >> Method: org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory.getAdvice(ReflectiveAspectJAdvisorFactory.java:243) ]
+DEBUG:Found AspectJ method: public void com.test.USer.UserService.add()
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.context.support.ClassPathXmlApplicationContext >> Method: org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:594) ]
+DEBUG:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5594a1b5
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.beans.factory.xml.XmlBeanDefinitionReader >> Method: org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:395) ]
+DEBUG:Loaded 3 bean definitions from class path resource [applicationContext.xml]
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'service'
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.beans.factory.support.DefaultListableBeanFactory >> Method: org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:213) ]
+DEBUG:Creating shared instance of singleton bean 'dao'
+2019-06-12 14:43:51 下午 [Thread: main][ Class:org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory >> Method: org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory.getAdvice(ReflectiveAspectJAdvisorFactory.java:243) ]
+DEBUG:Found AspectJ method: public void com.test.USer.UserService.add()
